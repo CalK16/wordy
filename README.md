@@ -1,0 +1,2 @@
+# wordy
+AIGC Dictionary
